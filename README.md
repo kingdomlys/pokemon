@@ -111,6 +111,10 @@ wget -O config.yaml [订阅链接]
 ```
 使用上述命令貌似生成的yaml文件内是一大串字符，建议将主机的yml文件改个名字与后缀丢到树莓派中就行
 
+执行入口：
+```python
+python deploy_interactive.py
+```
 
 # 成功演示
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/57977c54f1864ebdaa0e0f8e98d9cb3d.png)
